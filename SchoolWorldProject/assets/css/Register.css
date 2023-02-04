@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box;
+}
+
+
+
+.card{
+  
+  border: 3px solid gold;
+  background-size: cover;
+}
+
+h2{
+  color: gold;
+}
+
+
+.form-control{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.form-check{
+  
+  font-weight: bold;
+  color: gold;
+  margin: 0px;
+  padding: 0px;
+}
+
+.form-label{
+  color: gold;
+}
+
+u{
+  color: black;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.tint:hover{
+color: gold;
+}
+
+p{
+  color: gold;
+  margin: 0px;
+  padding: 0px;
+}
+
+.btn{
+  color: gold;
+  border: 2px solid gold;
+}
+
+.btn:hover{
+  background-color: gold;
+  color: black;
+  border: 2px solid black;
+}

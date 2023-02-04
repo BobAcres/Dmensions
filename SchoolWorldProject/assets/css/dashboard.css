@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(/images/gold.jpg);
+    background-size: cover;
+}
+
+.img{
+    border: 3px solid gold;
+}
+
+label{
+    font-weight: bold;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+span{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.hi3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    color: black;
+}
+
+.hi6{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.vote{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    margin-top: 20px;
+    background-color: black;
+    color: gold;
+    border: 2px solid gold;
+    width: 150px;
+    font-weight: bolder;
+}
+
+.button:hover{
+    color: black;
+    background-color: transparent;
+}
